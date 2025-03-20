@@ -1,3 +1,7 @@
+Watch this Video https://www.freecodecamp.org/news/learn-next-js-tutorial/ or https://www.youtube.com/watch?v=KjY94sAKLlw&ab_channel=freeCodeCamp.org to learn how to build this Next.js app 
+
+Author's repo is https://github.com/timeToCode-ali/nextjs-tutorial
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
